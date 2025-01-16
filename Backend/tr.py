@@ -1,8 +1,8 @@
 import requests
 
 # Define the Groq API URL and headers
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_API_KEY = "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"  # Replace with your actual Groq API key
+GROQ_API_URL = ""
+GROQ_API_KEY = ""  # Replace with your actual Groq API key
 
 headers = {
     "Content-Type": "application/json",
